@@ -1,0 +1,33 @@
+/* google- font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+     font-family: 'Poppins', sans-serif;
+}
+
+.header-bg-color{
+    background-color: #264653;
+}
+
+.main-button{
+    background: #E76F51;
+    color: white;
+    border: 2px solid #E76F51;
+    
+}
+.main-button:hover{
+    border: 2px solid #E76F51;
+    color: #E76F51;
+}
+.main-heading-text-color{
+    color:#0D0925;
+}
+.span-text-color{
+    color: #E76F51;
+}
+
+.main-menu li a{
+    color: white;
+}
+.main-menu li a:hover{
+    color: #E76F51;
+}
