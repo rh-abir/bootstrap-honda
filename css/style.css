@@ -31,3 +31,6 @@
 .main-menu li a:hover{
     color: #E76F51;
 }
+.hd-img-filter{
+    filter: grayscale(100%);
+}
